@@ -1,21 +1,44 @@
+![Illustration of saving money](https://github.com/vardhanreddy369/SpendWise/assets/91843112/f141efb8-8eb8-49f9-ac5e-39dad1b5d95a)
+
+
+---
+
 # SpendWise
-SpendWise is a revolutionary expense tracking application designed to streamline and simplify the process of managing personal finances. With its intuitive interface and robust features, SpendWise empowers users to take control of their spending habits and make informed financial decisions.
 
-# Key Features:
-Expense Tracking: Easily record and categorize expenses on-the-go, whether it's a cup of coffee or a major purchase.
+## Overview
+SpendWise is a financial wellness platform aimed at promoting responsible spending habits and improving mental well-being. Our project recognizes the critical link between financial stress and mental health challenges, offering personalized financial guidance, expense tracking tools, and educational resources.
 
-Budget Management: Set budgets for different expense categories and track your spending against them to stay on target.
+## Team
+- **Team Members:**
+  - A.J Swaroop (Roll No: 2110030209)
+  - G. Sri Vardhan Reddy (Roll No: 2110030217)
+  - R. Satya Sai (Roll No: 2110030256)
+  - Ch. Dileep Reddy (Roll No: 2110030307)
 
-Real-Time Insights: Gain valuable insights into your spending patterns with comprehensive reports and visualizations.
+## Problem Statement
+Financial stress is a major contributor to mental health issues, causing anxiety and despair for many individuals dealing with financial instability. SpendWise aims to address this issue by empowering users to take control of their finances and improve their mental well-being.
 
-Customizable Categories: Tailor expense categories to suit your specific needs and preferences.
+## Objective
+Our goal is to provide users with the guidance and resources they need to achieve financial wellness, thereby alleviating the burden of financial stress on mental health.
 
-Secure Data Storage: Rest assured that your financial data is safe and secure with advanced encryption methods.
+## Features
+- **Personalized Financial Guidance:** Chatbot interface offering tailored financial advice.
+- **Expense Tracking:** Convenient tool for tracking expenses.
+- **Budgeting Tools:** Set and track spending limits across various categories.
+- **Financial Literacy Resources:** Access articles, tips, and tutorials on financial management.
 
-Cross-Platform Compatibility: Access SpendWise from anywhere, whether you're using a smartphone, tablet, or computer.
 
-Reminders and Alerts: Set up reminders for bill payments and receive alerts when you're approaching budget limits.
 
-User-Friendly Interface: Enjoy a seamless user experience with an intuitive interface designed for efficiency and ease of use.
+## Usage
+1. Set up your financial goals during onboarding.
+2. Interact with the chatbot to receive personalized financial guidance.
+3. Track your expenses and set budgets using the provided tools.
+4. Access financial literacy resources to enhance your knowledge.
 
-SpendWise is not just another expense tracker; it's a financial companion that empowers users to make smarter choices with their money. Join the thousands of satisfied users who have transformed their financial lives with SpendWise today!
+## Contributions
+We welcome contributions from the community! Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+---
